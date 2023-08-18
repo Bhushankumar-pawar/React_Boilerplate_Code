@@ -1,0 +1,44 @@
+{
+  "name": "react_boilerplate_code",
+  "version": "1.0.0",
+  "description": "It's boilarplate code for react using parcel and tailwind css",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhushankumar-pawar/React_Boilerplate_Code.git"
+  },
+  "keywords": [
+    "react",
+    "boilerplate",
+    "parcel",
+    "tailwind",
+    "react",
+    "bolarplate",
+    "with",
+    "parcel",
+    "and",
+    "tailwind",
+    "css"
+  ],
+  "author": "Bhushankumar Pawar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhushankumar-pawar/React_Boilerplate_Code/issues"
+  },
+  "homepage": "https://github.com/Bhushankumar-pawar/React_Boilerplate_Code#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "postcss": "^8.4.28",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.3.3"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
